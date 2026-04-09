@@ -1,0 +1,1696 @@
+[
+  {
+    "image_id": 0,
+    "test": "print ip address of all activ network interfac",
+    "refs": [
+      "find ip address of all network interfac"
+    ]
+  },
+  {
+    "image_id": 1,
+    "test": "get ip address of all activ network interfac",
+    "refs": [
+      "get ip address of all activ network interfac"
+    ]
+  },
+  {
+    "image_id": 2,
+    "test": "count non-blank line in file _REGEX",
+    "refs": [
+      "count non-blank line in all _FILE file in a current folder"
+    ]
+  },
+  {
+    "image_id": 3,
+    "test": "write _NUMBER to standard output and return _NUMBER",
+    "refs": [
+      "save valu _NUMBER in _REGEX variabl and return _NUMBER"
+    ]
+  },
+  {
+    "image_id": 4,
+    "test": "list all file from current directori tree that were modifi less than _TIMESPAN ago",
+    "refs": [
+      "list all file from current directori tree that were modifi less than _TIMESPAN ago omit _REGEX"
+    ]
+  },
+  {
+    "image_id": 5,
+    "test": "find all file in current directori and display stat output for them to _FILE",
+    "refs": [
+      "display in an optim way file status for all regular file in current directori tree suppress error messag"
+    ]
+  },
+  {
+    "image_id": 6,
+    "test": "list all file and directori under current directori match posix-egrep type regex _FILE in name exclud path _FILE and _FILE",
+    "refs": [
+      "list all file and directori under current directori match posix-egrep type regex _FILE in name exclud path _FILE and _FILE"
+    ]
+  },
+  {
+    "image_id": 7,
+    "test": "find all _FILE file and directori under current directori and run _REGEX on them",
+    "refs": [
+      "find file in current directori tree that match _REGEX and run _REGEX on them"
+    ]
+  },
+  {
+    "image_id": 8,
+    "test": "count number of uniqu line in sort file _REGEX compar to sort file _REGEX",
+    "refs": [
+      "count number of uniqu line in sort file _FILE compar to sort file _FILE"
+    ]
+  },
+  {
+    "image_id": 9,
+    "test": "find all file and directori under current directori and replac all null separ with newlin",
+    "refs": [
+      "find all file and directori under current directori with null charact as delimit and replac null charact with"
+    ]
+  },
+  {
+    "image_id": 10,
+    "test": "print _REGEX for everi line in _REGEX on a singl line",
+    "refs": [
+      "print _REGEX on each string in file _REGEX"
+    ]
+  },
+  {
+    "image_id": 11,
+    "test": "find all directori under current directori calcul total size and display it in sort order of size",
+    "refs": [
+      "show directori size in kb and sort to give largest at end"
+    ]
+  },
+  {
+    "image_id": 12,
+    "test": "find all file and directori under current directori that match regex _FILE in path",
+    "refs": [
+      "find file and directori under current directori that match regex _FILE in path"
+    ]
+  },
+  {
+    "image_id": 13,
+    "test": "display count of regular file in current folder which execut permiss to all user",
+    "refs": [
+      "display count of regular file under _FILE directori tree which execut permiss to all user"
+    ]
+  },
+  {
+    "image_id": 14,
+    "test": "creat a symbol link in current directori for each file list in _FILE",
+    "refs": [
+      "creat a symbol link in directori _FILE for each file list in _FILE"
+    ]
+  },
+  {
+    "image_id": 15,
+    "test": "count number of _FILE file in current directori tree",
+    "refs": [
+      "count number of _FILE file in current directori tree"
+    ]
+  },
+  {
+    "image_id": 16,
+    "test": "send one ping request to host whose name or ip address is specifi by _REGEX and print onli line contain _REGEX",
+    "refs": [
+      "send one ping request to host with local address in _FILE rang with last number specifi by variabl _REGEX and output onli line contain _REGEX to standard output"
+    ]
+  },
+  {
+    "image_id": 17,
+    "test": "remov all regular file from current directori tree that are exact _SIZE",
+    "refs": [
+      "remov all empti regular file under current directori and below"
+    ]
+  },
+  {
+    "image_id": 18,
+    "test": "search _FILE file resid in current directori tree for string _REGEX",
+    "refs": [
+      "search _FILE file from _DIRECTORY directori tree for todo line"
+    ]
+  },
+  {
+    "image_id": 19,
+    "test": "remov all non-digit charact from variabl _REGEX",
+    "refs": [
+      "print onli digit in variabl _REGEX"
+    ]
+  },
+  {
+    "image_id": 20,
+    "test": "search _FILE file resid in current directori tree for string _REGEX",
+    "refs": [
+      "search all _FILE file in current directori tree for _REGEX"
+    ]
+  },
+  {
+    "image_id": 21,
+    "test": "append new line to _FILE as it appear and write to consol and _FILE",
+    "refs": [
+      "write line append to _REGEX as it appear to consol and append to _REGEX in background"
+    ]
+  },
+  {
+    "image_id": 22,
+    "test": "find all _FILE file and directori under current directori that not contain _REGEX in path",
+    "refs": [
+      "find all _FILE file in _REGEX directori tree whose pathnam not contain whitespac"
+    ]
+  },
+  {
+    "image_id": 23,
+    "test": "find all _FILE file and directori under current directori and print total size in kilobyt",
+    "refs": [
+      "calcul total size of all _FILE file in directori tree"
+    ]
+  },
+  {
+    "image_id": 24,
+    "test": "print last _NUMBER line of _FILE to consol and append it to _FILE",
+    "refs": [
+      "print last line of _REGEX to consol and append to _REGEX"
+    ]
+  },
+  {
+    "image_id": 25,
+    "test": "find all file in current folder which are present in pattern list file _FILE",
+    "refs": [
+      "find all regular file in current folder which are present in pattern file _FILE"
+    ]
+  },
+  {
+    "image_id": 26,
+    "test": "search all _FILE file resid in current directori tree and modifi more than _TIMESPAN ago for string _REGEX",
+    "refs": [
+      "search all _FILE file resid in current directori tree and modifi at least _TIMESPAN ago for string _REGEX"
+    ]
+  },
+  {
+    "image_id": 27,
+    "test": "for each line in _REGEX print line backward",
+    "refs": [
+      "for each line in _REGEX print _REGEX follow by line backward"
+    ]
+  },
+  {
+    "image_id": 28,
+    "test": "find all file and directori in entir file system and print them",
+    "refs": [
+      "show all file in entir file system"
+    ]
+  },
+  {
+    "image_id": 29,
+    "test": "print onli alphanumer charact from _FILE",
+    "refs": [
+      "print onli printabl charact from _FILE"
+    ]
+  },
+  {
+    "image_id": 30,
+    "test": "mathemat sum all number from _NUMBER to _NUMBER",
+    "refs": [
+      "calcul sum of all number from _NUMBER to _NUMBER"
+    ]
+  },
+  {
+    "image_id": 31,
+    "test": "find all _REGEX file and directori under _DIRECTORY that match _REGEX in name and redirect output to _FILE",
+    "refs": [
+      "print a list of all _REGEX file and directori under _DIRECTORY to _FILE file"
+    ]
+  },
+  {
+    "image_id": 32,
+    "test": "display a long list of all file in current directori tree whose size is greater than _SIZE and sort them accord to size",
+    "refs": [
+      "display a long list of all file in current folder in sort order which are bigger than _SIZE"
+    ]
+  },
+  {
+    "image_id": 33,
+    "test": "print last non-empti line of _REGEX",
+    "refs": [
+      "grep for last occurr of text between _NUMBER tag"
+    ]
+  },
+  {
+    "image_id": 34,
+    "test": "print second section of space-separ data in _REGEX variabl",
+    "refs": [
+      "print given file name 's extens"
+    ]
+  },
+  {
+    "image_id": 35,
+    "test": "copi permiss from _REGEX to all regular file in current directori tree",
+    "refs": [
+      "find all file under current directori and copi permiss to same file in _FILE"
+    ]
+  },
+  {
+    "image_id": 36,
+    "test": "delet all _FILE file under current directori",
+    "refs": [
+      "find file name core in or below directori _FILE and delet them note that will work incorrect if are ani filenam contain newlin singl or doubl quot or space"
+    ]
+  },
+  {
+    "image_id": 37,
+    "test": "for each line which a common first field in _REGEX and _REGEX output common first field follow by all other field in _REGEX and _REGEX",
+    "refs": [
+      "_FILE and _FILE both contain a name and a number on each line for each name whose correspond number not match in both file display _REGEX messag"
+    ]
+  },
+  {
+    "image_id": 38,
+    "test": "unzip everi file match _FILE in current directori",
+    "refs": [
+      "unzip all file match _FILE"
+    ]
+  },
+  {
+    "image_id": 39,
+    "test": "replac _REGEX with _REGEX in column _NUMBER and _NUMBER of file _FILE and format output as a tabl",
+    "refs": [
+      "read first column of each row find all other first column which a differ less than _NUMBER and append that comma separ list to row"
+    ]
+  },
+  {
+    "image_id": 40,
+    "test": "write _REGEX to standard output and append it to _FILE as root",
+    "refs": [
+      "print _REGEX to consol and append to _REGEX"
+    ]
+  },
+  {
+    "image_id": 41,
+    "test": "copi file _REGEX to each of directori _REGEX _REGEX _REGEX _REGEX _REGEX _REGEX _REGEX _REGEX _REGEX _REGEX _REGEX _REGEX",
+    "refs": [
+      "copi file _REGEX to each of directori like _FILE"
+    ]
+  },
+  {
+    "image_id": 42,
+    "test": "print all match of regular express _REGEX in string _REGEX",
+    "refs": [
+      "find onli part of echo string that match with regex _REGEX and save them in _REGEX variabl each match part on a separ line"
+    ]
+  },
+  {
+    "image_id": 43,
+    "test": "send _NUMBER ping request to host whose name or ip address is specifi by _REGEX and print percentag of packet loss",
+    "refs": [
+      "print ping time of a singl request to _FILE"
+    ]
+  },
+  {
+    "image_id": 44,
+    "test": "list top _NUMBER file under current directori by size",
+    "refs": [
+      "find command will display top _NUMBER small file from current directori most probabl will get _SIZE file"
+    ]
+  },
+  {
+    "image_id": 45,
+    "test": "find all file and directori under current directori that match regex _FILE in path",
+    "refs": [
+      "find file and directori under current directori that match regex _FILE in path"
+    ]
+  },
+  {
+    "image_id": 46,
+    "test": "find all regular file in current directori tree whose mime type is _REGEX",
+    "refs": [
+      "print name of all file in home directori and it subdirectori recurs whose mime type is video"
+    ]
+  },
+  {
+    "image_id": 47,
+    "test": "run _REGEX with environ variabl _REGEX set to _NUMBER and pipe output to _REGEX",
+    "refs": [
+      "run specifi git command page through output with raw charact written to termin without initi termin capabl and automat exit when end of output is reach"
+    ]
+  },
+  {
+    "image_id": 48,
+    "test": "remov all _FILE file and directori under current directori",
+    "refs": [
+      "find all _FILE file on system start from _DIRECTORY and delet them"
+    ]
+  },
+  {
+    "image_id": 49,
+    "test": "calcul and show _REGEX sum for everi file under current directori tree",
+    "refs": [
+      "find all file under _FILE and calcul _REGEX"
+    ]
+  },
+  {
+    "image_id": 50,
+    "test": "delet all empti file in current directori tree",
+    "refs": [
+      "find all empti file start from current directori and delet them"
+    ]
+  },
+  {
+    "image_id": 51,
+    "test": "find all _FILE file in current folder and search for them in all _FILE file and display match line along with file name",
+    "refs": [
+      "find all _FILE file in current folder which are present in pattern text file"
+    ]
+  },
+  {
+    "image_id": 52,
+    "test": "search _FILE file resid in current directori tree for string _REGEX",
+    "refs": [
+      "find all _FILE file under and below current directori that contain _REGEX"
+    ]
+  },
+  {
+    "image_id": 53,
+    "test": "recurs find all file in a current folder and compress them to _NUMBER parallel process",
+    "refs": [
+      "compress all file under _FILE directori tree use gzip with best compress method"
+    ]
+  },
+  {
+    "image_id": 54,
+    "test": "find all _FILE _REGEX _REGEX _REGEX and _REGEX file under current directori and redirect output to file _FILE",
+    "refs": [
+      "find all _FILE _REGEX _REGEX file in current directori and save output name to anoth file"
+    ]
+  },
+  {
+    "image_id": 55,
+    "test": "find all regular file under current directori that not match regex _FILE in path",
+    "refs": [
+      "find recurs all regular file in current directori tree not end in _FILE or _FILE"
+    ]
+  },
+  {
+    "image_id": 56,
+    "test": "replac all occurr of _REGEX with _REGEX in all _FILE _FILE _FILE _FILE _FILE _FILE _FILE _FILE and _FILE file in current directori tree",
+    "refs": [
+      "remov trail white space from all _FILE _FILE _FILE _FILE _FILE _FILE _FILE _FILE _FILE file under current directori"
+    ]
+  },
+  {
+    "image_id": 57,
+    "test": "find all file and directori under current directori and show them by page through one screen at a time",
+    "refs": [
+      "list recurs all file and directori in _FILE and pass result to _REGEX pager"
+    ]
+  },
+  {
+    "image_id": 58,
+    "test": "count number of line in each file in a git repositori",
+    "refs": [
+      "count number of line in each file in a git repositori"
+    ]
+  },
+  {
+    "image_id": 59,
+    "test": "search for _REGEX in all file under current directori",
+    "refs": [
+      "search for liter string _REGEX in all file under current directori"
+    ]
+  },
+  {
+    "image_id": 60,
+    "test": "remov all _FILE file and directori under current directori",
+    "refs": [
+      "remov all file whose name end with _REGEX in _FILE directori tree"
+    ]
+  },
+  {
+    "image_id": 61,
+    "test": "decompress and extract _FILE to _DIRECTORY",
+    "refs": [
+      "decompress and extract _FILE into _FILE"
+    ]
+  },
+  {
+    "image_id": 62,
+    "test": "read a line from standard input into variabl _REGEX",
+    "refs": [
+      "save _REGEX into variabl _REGEX in ksh"
+    ]
+  },
+  {
+    "image_id": 63,
+    "test": "report onli root file system disk usag",
+    "refs": [
+      "print file system disk space usag for _FILE if exist"
+    ]
+  },
+  {
+    "image_id": 64,
+    "test": "remov all _FILE file in current directori tree",
+    "refs": [
+      "recurs find all _FILE file in a current folder and remov them"
+    ]
+  },
+  {
+    "image_id": 65,
+    "test": "remov trail space from all file under current directori ignor directori with _FILE in path",
+    "refs": [
+      "remov trail space from all file under current directori ignor directori with _FILE in path"
+    ]
+  },
+  {
+    "image_id": 66,
+    "test": "find all _FILE file under current directori and compress them to _FILE",
+    "refs": [
+      "find all regular file and creat _FILE"
+    ]
+  },
+  {
+    "image_id": 67,
+    "test": "continu send _REGEX to input of _REGEX",
+    "refs": [
+      "continu send _REGEX to input of _REGEX"
+    ]
+  },
+  {
+    "image_id": 68,
+    "test": "find all file and directori under current directori and print total size of them in human readabl format",
+    "refs": [
+      "list all file and directori under current directori use comma as delimit for differ field in output"
+    ]
+  },
+  {
+    "image_id": 69,
+    "test": "find all _NUMBER permiss file under current directori and print them use awk",
+    "refs": [
+      "find file with _NUMBER permiss under _FILE and print them with string _REGEX print as first line of output or print _REGEX if no such file were found"
+    ]
+  },
+  {
+    "image_id": 70,
+    "test": "print ip address of host name",
+    "refs": [
+      "print ip address for current host name"
+    ]
+  },
+  {
+    "image_id": 71,
+    "test": "find total size of all _FILE file under _FILE directori",
+    "refs": [
+      "get disk space use by all _FILE file and directori under _FILE directori"
+    ]
+  },
+  {
+    "image_id": 72,
+    "test": "print dns record for each domain name list in file _FILE",
+    "refs": [
+      "get domain name from file _FILE and request _FILE dns record for each one"
+    ]
+  },
+  {
+    "image_id": 73,
+    "test": "print _REGEX _REGEX _REGEX _FILE",
+    "refs": [
+      "print path to pipe creat for process substitut"
+    ]
+  },
+  {
+    "image_id": 74,
+    "test": "list each file or directori in current directori prefix by it disk usag human-read size and sort from largest to smallest",
+    "refs": [
+      "list each file or directori in current directori prefix by it human readabl files and sort from largest to smallest"
+    ]
+  },
+  {
+    "image_id": 75,
+    "test": "find all link under _FILE and print _REGEX for each of them",
+    "refs": [
+      "search for all link in a folder and display all broken link"
+    ]
+  },
+  {
+    "image_id": 76,
+    "test": "find all directori under current directori and creat an archiv of it",
+    "refs": [
+      "archiv directori structur under _REGEX directori into _FILE"
+    ]
+  },
+  {
+    "image_id": 77,
+    "test": "list environ variabl whose name or valu contain _REGEX",
+    "refs": [
+      "display bash function definit of _REGEX"
+    ]
+  },
+  {
+    "image_id": 78,
+    "test": "find all file and directori under current directori that contain _REGEX in name",
+    "refs": [
+      "find file with name _REGEX in current folder"
+    ]
+  },
+  {
+    "image_id": 79,
+    "test": "list all _FILE _FILE and _FILE file and directori under current directori",
+    "refs": [
+      "search all _FILE png _FILE file in current folder and calcul total size of them"
+    ]
+  },
+  {
+    "image_id": 80,
+    "test": "unzip and untar _FILE to standard output",
+    "refs": [
+      "unzip and untar _FILE to standard output"
+    ]
+  },
+  {
+    "image_id": 81,
+    "test": "print day of first tuesday in _TIMESPAN month",
+    "refs": [
+      "print posit number of day _NUMBER in fourth line of calendar output for septemb _NUMBER"
+    ]
+  },
+  {
+    "image_id": 82,
+    "test": "execut _REGEX on all regular file from directori tree _FILE",
+    "refs": [
+      "execut script _REGEX pass all regular file from directori tree _FILE as argument to it"
+    ]
+  },
+  {
+    "image_id": 83,
+    "test": "search all regular file in current directori tree for string _REGEX and print name of match file",
+    "refs": [
+      "find all file under _FILE that match regex _FILE in content"
+    ]
+  },
+  {
+    "image_id": 84,
+    "test": "remov all _FILE file in current directori tree",
+    "refs": [
+      "remov all _FILE file under current directori ensur white space safeti"
+    ]
+  },
+  {
+    "image_id": 85,
+    "test": "get ip address of _REGEX network interfac",
+    "refs": [
+      "get ip address of _REGEX network interfac"
+    ]
+  },
+  {
+    "image_id": 86,
+    "test": "find all _FILE file under current directori and replac everi occurr of _REGEX with _REGEX in those file",
+    "refs": [
+      "replac all occurr of _REGEX with _REGEX in all regular file with _FILE extens under current directori tree"
+    ]
+  },
+  {
+    "image_id": 87,
+    "test": "chang permiss of all regular file in current directori tree to _NUMBER",
+    "refs": [
+      "chang permiss of all regular file in current directori _REGEX is use for handl file with newlin in file name"
+    ]
+  },
+  {
+    "image_id": 88,
+    "test": "archiv all _REGEX file and directori under _DIRECTORY into _REGEX",
+    "refs": [
+      "archiv all _REGEX file and directori under _DIRECTORY into _REGEX"
+    ]
+  },
+  {
+    "image_id": 89,
+    "test": "search for _REGEX in all _FILE file under current directori",
+    "refs": [
+      "search for _REGEX in all _FILE file under current directori"
+    ]
+  },
+  {
+    "image_id": 90,
+    "test": "find all _FILE file under current directori and print chang name by replac _REGEX with _REGEX in name",
+    "refs": [
+      "find all _FILE file under current directori and print chang name by append _NUMBER level of parent directori name at begin and modifi actual name to dd-nnn format"
+    ]
+  },
+  {
+    "image_id": 91,
+    "test": "count number of line in all _FILE file in current directori tree",
+    "refs": [
+      "find recurs all python file in current directori tree and count number of line in them"
+    ]
+  },
+  {
+    "image_id": 92,
+    "test": "extract content of _FILE _FILE",
+    "refs": [
+      "extract content of _FILE _FILE"
+    ]
+  },
+  {
+    "image_id": 93,
+    "test": "remov all _FILE file in current directori and not delet those in sub directori",
+    "refs": [
+      "remov all _FILE file in _FILE directori but not in it 's subdirectori"
+    ]
+  },
+  {
+    "image_id": 94,
+    "test": "find all _FILE file in maximum _NUMBER level down current directori process it with sed and send output to a mysql command",
+    "refs": [
+      "find all _FILE file in maximum _NUMBER level down current directori process it with sed and send output to a mysql command"
+    ]
+  },
+  {
+    "image_id": 95,
+    "test": "find regular file whose name is _REGEX in entir file system and discard all error",
+    "refs": [
+      "find regular file whose filenam is _REGEX suppress all error messag"
+    ]
+  },
+  {
+    "image_id": 96,
+    "test": "print hexadecim charact and octal valu of _REGEX",
+    "refs": [
+      "print a _SIZE hexadecim valu printabl charact and octal valu of _REGEX"
+    ]
+  },
+  {
+    "image_id": 97,
+    "test": "report onli real execut time of _REGEX command _REGEX",
+    "refs": [
+      "use time util to report onli real execut time of _REGEX command"
+    ]
+  },
+  {
+    "image_id": 98,
+    "test": "find all file and directori under current directori that were chang less than _TIMESPAN ago and show a few line of output from begin",
+    "refs": [
+      "find all file which are chang in _TIMESPAN in entir file system and show a few line of output from begin"
+    ]
+  },
+  {
+    "image_id": 99,
+    "test": "make a new directori _REGEX in everi directori in current work directori",
+    "refs": [
+      "find all directori in current folder exclud search in sub directori and creat these directori in anoth path"
+    ]
+  },
+  {
+    "image_id": 100,
+    "test": "find all _FILE file under current directori start from line _NUMBER in them and write output to consol and _FILE file",
+    "refs": [
+      "find _FILE file recurs in current directori print line start on line _NUMBER to consol and save to _FILE"
+    ]
+  },
+  {
+    "image_id": 101,
+    "test": "find all directori under current directori and print a comma separ list of them",
+    "refs": [
+      "save all directori under current directori as a comma separ list in variabl _REGEX"
+    ]
+  },
+  {
+    "image_id": 102,
+    "test": "delet all _FILE file in current directori tree follow symlink",
+    "refs": [
+      "find all file whose name end with _REGEX in _FILE directori tree follow symlink and delet them"
+    ]
+  },
+  {
+    "image_id": 103,
+    "test": "display all regular file in current folder in sort order",
+    "refs": [
+      "find all file under _FILE and sort them"
+    ]
+  },
+  {
+    "image_id": 104,
+    "test": "find all _FILE file and directori under current directori and execut process for each of them",
+    "refs": [
+      "find all _FILE file and directori under current directori and execut process onc with all of them as argument"
+    ]
+  },
+  {
+    "image_id": 105,
+    "test": "print everi _SIZE of standard input on a new line",
+    "refs": [
+      "print everi _SIZE of standard input in group of _NUMBER follow by a space"
+    ]
+  },
+  {
+    "image_id": 106,
+    "test": "remov all _FILE file and directori under current directori",
+    "refs": [
+      "recurs remov all file like _FILE in a current folder"
+    ]
+  },
+  {
+    "image_id": 107,
+    "test": "find all directori in current folder and not search in sub directori and creat same directori structur in anoth folder",
+    "refs": [
+      "find all directori in current folder and not search in sub directori and creat same directori structur in anoth folder"
+    ]
+  },
+  {
+    "image_id": 108,
+    "test": "remov all regular file from current directori tree whose name not end with _FILE",
+    "refs": [
+      "recurs remov all file in a _REGEX folder but _REGEX file"
+    ]
+  },
+  {
+    "image_id": 109,
+    "test": "continu send _NUMBER to input of _REGEX",
+    "refs": [
+      "answer _NUMBER repeat until _REGEX exit"
+    ]
+  },
+  {
+    "image_id": 110,
+    "test": "delet all _FILE file under current directori",
+    "refs": [
+      "find all _FILE file start from current directori and delet them"
+    ]
+  },
+  {
+    "image_id": 111,
+    "test": "display a long list of all file in current directori tree that _PERMISSION set",
+    "refs": [
+      "find file that are writabl by user group or both"
+    ]
+  },
+  {
+    "image_id": 112,
+    "test": "find all _FILE file in current directori tree that contain string _REGEX and count them",
+    "refs": [
+      "count _FILE file resid in _FILE directori tree and contain string _REGEX"
+    ]
+  },
+  {
+    "image_id": 113,
+    "test": "replac all occurr of _REGEX with _REGEX in all file under current directori tree",
+    "refs": [
+      "replac _REGEX with _REGEX in all file in current directori tree"
+    ]
+  },
+  {
+    "image_id": 114,
+    "test": "replac all newlin with space in file _REGEX",
+    "refs": [
+      "print file _REGEX replac each space with a newlin"
+    ]
+  },
+  {
+    "image_id": 115,
+    "test": "find all _FILE file and directori under current directori and execut script _FILE with all path as argument to it",
+    "refs": [
+      "execut _FILE pass all _FILE file from current directori tree as argument to it"
+    ]
+  },
+  {
+    "image_id": 116,
+    "test": "chang permiss of all regular file in current directori tree to _NUMBER",
+    "refs": [
+      "set permiss for all regular file under _FILE to _NUMBER"
+    ]
+  },
+  {
+    "image_id": 117,
+    "test": "compar file in _FILE and _FILE and show which one are ident and which one differ",
+    "refs": [
+      "compar file in _REGEX and _REGEX and show which one are ident and which one differ"
+    ]
+  },
+  {
+    "image_id": 118,
+    "test": "split content of _FILE into _NUMBER file with a filenam prefix _REGEX and numer suffix",
+    "refs": [
+      "split content of _REGEX into _NUMBER file in a round robin fashion with prefix _REGEX and numer suffix"
+    ]
+  },
+  {
+    "image_id": 119,
+    "test": "display a list of all regular file in current folder along with size in decreas order of size",
+    "refs": [
+      "display a list of file with size in decreas order of size of all regular file under _REGEX directori tree that are bigger than _REGEX in size"
+    ]
+  },
+  {
+    "image_id": 120,
+    "test": "remov passphras from user 's ssh key without prompt",
+    "refs": [
+      "remov passphras from user 's ssh key without prompt"
+    ]
+  },
+  {
+    "image_id": 121,
+    "test": "count number of file in a current folder and save it in _REGEX variabl",
+    "refs": [
+      "save number of line of current directori list in _REGEX variabl"
+    ]
+  },
+  {
+    "image_id": 122,
+    "test": "find all text file in a folder and give them as input to a script and save output to a file",
+    "refs": [
+      "search for all text file in directori _FILE and pass them as input to shell script in exec command and save output to file _FILE"
+    ]
+  },
+  {
+    "image_id": 123,
+    "test": "print file type of execut file of command _REGEX",
+    "refs": [
+      "print file type of execut file of command _REGEX"
+    ]
+  },
+  {
+    "image_id": 124,
+    "test": "write _REGEX to standard output and append it to _FILE as root",
+    "refs": [
+      "write _FILE to standard output and append to _FILE as root"
+    ]
+  },
+  {
+    "image_id": 125,
+    "test": "remov all _FILE file in current directori and not delet those in sub directori",
+    "refs": [
+      "remov all _FILE file in _FILE directori but not in it 's subdirectori"
+    ]
+  },
+  {
+    "image_id": 126,
+    "test": "renam all _FILE file in current directori tree to _FILE",
+    "refs": [
+      "renam all _FILE file under and below current directori to _FILE"
+    ]
+  },
+  {
+    "image_id": 127,
+    "test": "find all directori under current directori and creat an archiv of onli directori",
+    "refs": [
+      "archiv directori structur under current directori into _FILE"
+    ]
+  },
+  {
+    "image_id": 128,
+    "test": "find all _FILE file in current directori tree that contain line match regular express _REGEX ignor _FILE and _FILE file",
+    "refs": [
+      "list file from current directori tree that contain line match regular express _REGEX ignor _FILE and _FILE"
+    ]
+  },
+  {
+    "image_id": 129,
+    "test": "replac all instanc of _REGEX with _REGEX in _REGEX and split result into file of at most _NUMBER mib in size with a filenam prefix _REGEX",
+    "refs": [
+      "split first _NUMBER line of _REGEX into file with at most _SIZE each preserv line"
+    ]
+  },
+  {
+    "image_id": 130,
+    "test": "renam all _FILE file and directori under current directori to _FILE file and directori",
+    "refs": [
+      "renam _FILE file in current directori tree prepend name with _REGEX"
+    ]
+  },
+  {
+    "image_id": 131,
+    "test": "find all directori in level _NUMBER of current directori tree whose name begin with _REGEX and count them",
+    "refs": [
+      "find all directori in _NUMBER level down _FILE directori that _NUMBER consecut vowel in name and count them"
+    ]
+  },
+  {
+    "image_id": 132,
+    "test": "copi output of _REGEX to _FILE preserv relat path",
+    "refs": [
+      "copi file print by _REGEX to _FILE preserv directori hierarchi"
+    ]
+  },
+  {
+    "image_id": 133,
+    "test": "mathemat sum each line in _REGEX",
+    "refs": [
+      "mathemat sum each line in _REGEX"
+    ]
+  },
+  {
+    "image_id": 134,
+    "test": "search manual page which descript contain string _REGEX and end with _REGEX",
+    "refs": [
+      "search manual page with descript in section _NUMBER that name begin with lowercas letter"
+    ]
+  },
+  {
+    "image_id": 135,
+    "test": "wrap each line in _REGEX to fit in _NUMBER charact and add _REGEX on each line",
+    "refs": [
+      "wrap each line in _REGEX to fit in _NUMBER charact and right pad ani line shorter with space"
+    ]
+  },
+  {
+    "image_id": 136,
+    "test": "print each line that is found onli onc in _FILE and _FILE combin",
+    "refs": [
+      "print uniqu line in _REGEX and _REGEX"
+    ]
+  },
+  {
+    "image_id": 137,
+    "test": "print a random line from file _REGEX",
+    "refs": [
+      "print a random line from _REGEX"
+    ]
+  },
+  {
+    "image_id": 138,
+    "test": "find all file under current directori and count them",
+    "refs": [
+      "count all file in a current folder and subfold"
+    ]
+  },
+  {
+    "image_id": 139,
+    "test": "remov all empti folder under current folder",
+    "refs": [
+      "find and delet all empti folder"
+    ]
+  },
+  {
+    "image_id": 140,
+    "test": "find all _FILE file in current directori tree that contain string _REGEX and print name of file that don 't contain string _REGEX",
+    "refs": [
+      "list _FILE file in current directori tree that contain string _REGEX but not contain string _REGEX"
+    ]
+  },
+  {
+    "image_id": 141,
+    "test": "move all file from _REGEX directori tree to _REGEX directori",
+    "refs": [
+      "move all file from _REGEX directori tree to _REGEX directori"
+    ]
+  },
+  {
+    "image_id": 142,
+    "test": "find all file and directori with case insensit name _REGEX that belong to user _REGEX under _FILE directori and show a few line of output from begin",
+    "refs": [
+      "find all _FILE file of user root under _DIRECTORY directori and show a few line of output from begin"
+    ]
+  },
+  {
+    "image_id": 143,
+    "test": "save number of string with text _REGEX in file _FILE to variabl _REGEX",
+    "refs": [
+      "save number of string with _REGEX pattern in _FILE to _REGEX variabl"
+    ]
+  },
+  {
+    "image_id": 144,
+    "test": "find all _FILE file and directori under current directori and edit them with _REGEX",
+    "refs": [
+      "find all _FILE file in current directori tree and edit them with _REGEX"
+    ]
+  },
+  {
+    "image_id": 145,
+    "test": "replac _REGEX with _REGEX in _REGEX and print result",
+    "refs": [
+      "set variabl _REGEX to first word of _REGEX convert to lowercas"
+    ]
+  },
+  {
+    "image_id": 146,
+    "test": "search for case insensit regex _REGEX in all _FILE file under current directori",
+    "refs": [
+      "search for word _REGEX in all file in current contain word _REGEX in name"
+    ]
+  },
+  {
+    "image_id": 147,
+    "test": "continu send _REGEX to input of _FILE",
+    "refs": [
+      "answer _REGEX to all _REGEX prompt from command _FILE"
+    ]
+  },
+  {
+    "image_id": 148,
+    "test": "find all _FILE file and directori under current directori and compress them to _FILE",
+    "refs": [
+      "creat a tar ball of all _FILE file in current folder"
+    ]
+  },
+  {
+    "image_id": 149,
+    "test": "print everi _NUMBER line in _FILE on a singl line separ by a space",
+    "refs": [
+      "write everi _NUMBER line in _REGEX on a singl line separ by a space"
+    ]
+  },
+  {
+    "image_id": 150,
+    "test": "list all regular file in current directori tree",
+    "refs": [
+      "list all file in current directori tree invok xarg onli onc"
+    ]
+  },
+  {
+    "image_id": 151,
+    "test": "get total size of all file under current directori",
+    "refs": [
+      "get total size of all file under current directori"
+    ]
+  },
+  {
+    "image_id": 152,
+    "test": "find all _FILE file and directori under current directori that contain word _REGEX in name",
+    "refs": [
+      "search for file with _REGEX in name and _REGEX in path name"
+    ]
+  },
+  {
+    "image_id": 153,
+    "test": "find all file and directori under current directori and chang permiss to _NUMBER",
+    "refs": [
+      "chang permiss to _NUMBER for file and directori deeper than current directori"
+    ]
+  },
+  {
+    "image_id": 154,
+    "test": "print current shell 's execut name",
+    "refs": [
+      "get current shell 's execut name from output of _REGEX"
+    ]
+  },
+  {
+    "image_id": 155,
+    "test": "search for _REGEX in _REGEX and number output",
+    "refs": [
+      "find all line match _REGEX in _REGEX and number output"
+    ]
+  },
+  {
+    "image_id": 156,
+    "test": "print everi _NUMBER line in _REGEX on a singl line separ by a space",
+    "refs": [
+      "print everi _NUMBER line in _REGEX on a singl line separ by a space"
+    ]
+  },
+  {
+    "image_id": 157,
+    "test": "find all directori under _FILE and set read-write-execut permiss for owner read-execut permiss for group and execut permiss for other for those directori",
+    "refs": [
+      "chang permiss of all directori in current folder _REGEX is use for handl file with newlin in file name"
+    ]
+  },
+  {
+    "image_id": 158,
+    "test": "save full path of command _REGEX to variabl _REGEX",
+    "refs": [
+      "print file inform of command _REGEX"
+    ]
+  },
+  {
+    "image_id": 159,
+    "test": "print second section of space-separ data in _REGEX variabl",
+    "refs": [
+      "extract and print hostnam and protocol part from url like _DIRECTORY"
+    ]
+  },
+  {
+    "image_id": 160,
+    "test": "find all file in current directori and creat an archiv of it",
+    "refs": [
+      "creat an archiv name search from content of _FILE directori"
+    ]
+  },
+  {
+    "image_id": 161,
+    "test": "replac all occurr of _REGEX with _REGEX in all _FILE file in current directori tree",
+    "refs": [
+      "replac all occurr of edx with gurukul in all _FILE file under _FILE directori"
+    ]
+  },
+  {
+    "image_id": 162,
+    "test": "search for _REGEX in gzip file _FILE",
+    "refs": [
+      "search for _REGEX in gzip compress file _FILE"
+    ]
+  },
+  {
+    "image_id": 163,
+    "test": "display _FILE with line number and page interact through result",
+    "refs": [
+      "display _FILE with line number and page interact through result"
+    ]
+  },
+  {
+    "image_id": 164,
+    "test": "save tmux version number in _REGEX variabl",
+    "refs": [
+      "save _REGEX version in _REGEX variabl"
+    ]
+  },
+  {
+    "image_id": 165,
+    "test": "search _FILE file resid in current directori tree for string _REGEX",
+    "refs": [
+      "search for _REGEX in all _FILE file under current directori"
+    ]
+  },
+  {
+    "image_id": 166,
+    "test": "find all _FILE file under current directori and print onli _FILE file",
+    "refs": [
+      "find all file under current directori whose file type descript contain _REGEX display path to file and file type descript"
+    ]
+  },
+  {
+    "image_id": 167,
+    "test": "remov line start with _REGEX in all _FILE file under current directori and keep backup of origin",
+    "refs": [
+      "find all file call _FILE in current directori tree and remov line start with _REGEX in them save backup copi as _FILE"
+    ]
+  },
+  {
+    "image_id": 168,
+    "test": "execut _FILE in background on server _REGEX as user _REGEX",
+    "refs": [
+      "execut _FILE in background on server _REGEX with a licens of _NUMBER"
+    ]
+  },
+  {
+    "image_id": 169,
+    "test": "remov all _FILE file from _FILE directori tree",
+    "refs": [
+      "remov all _FILE file in _FILE directori tree"
+    ]
+  },
+  {
+    "image_id": 170,
+    "test": "find all _FILE file under current directori and count them",
+    "refs": [
+      "count all _FILE file in music user 's home and subdir"
+    ]
+  },
+  {
+    "image_id": 171,
+    "test": "archiv all _FILE file and directori under current directori into _FILE",
+    "refs": [
+      "creat a tar file contain all file in _FILE folder that contain space in name"
+    ]
+  },
+  {
+    "image_id": 172,
+    "test": "find all regular file in current directori tree whose name not end with _FILE and _FILE and write output to consol and append it to _FILE",
+    "refs": [
+      "find all regular file in current directori which not extens comment and and redirect output to _FILE"
+    ]
+  },
+  {
+    "image_id": 173,
+    "test": "answer _REGEX to ani prompt from _REGEX",
+    "refs": [
+      "answer _REGEX to all prompt of _REGEX"
+    ]
+  },
+  {
+    "image_id": 174,
+    "test": "calcul _REGEX sum of output of _REGEX on _FILE",
+    "refs": [
+      "calcul _REGEX checksum of thedirnam"
+    ]
+  },
+  {
+    "image_id": 175,
+    "test": "find all _FILE file in entir file system and discard all error",
+    "refs": [
+      "find all _FILE file under _DIRECTORY redirect error messag to _FILE"
+    ]
+  },
+  {
+    "image_id": 176,
+    "test": "list last modifi file in current directori",
+    "refs": [
+      "return singl most recent file in a directori"
+    ]
+  },
+  {
+    "image_id": 177,
+    "test": "search for _REGEX in all regular file under current directori tree and count number of match",
+    "refs": [
+      "find all file under and below current work directori with word california in file and count number of line in output"
+    ]
+  },
+  {
+    "image_id": 178,
+    "test": "print each uniqu line in _REGEX prefix by number of occurr",
+    "refs": [
+      "show valu of variabl _REGEX discard consecut duplic and ad number of occurr at begin of each line"
+    ]
+  },
+  {
+    "image_id": 179,
+    "test": "delet all file in current directori tree that were modifi more than _TIMESPAN ago",
+    "refs": [
+      "delet file in _FILE and below that not been modifi in over _TIMESPAN"
+    ]
+  },
+  {
+    "image_id": 180,
+    "test": "print a uniqu list of charact from standard input show backslash escap for non-display",
+    "refs": [
+      "print a uniqu list of charact from standard input show backslash escap for non-display"
+    ]
+  },
+  {
+    "image_id": 181,
+    "test": "move all _FILE file and directori under current directori to _DIRECTORY",
+    "refs": [
+      "move all _FILE file from directori _FILE and it subdirectori to _FILE"
+    ]
+  },
+  {
+    "image_id": 182,
+    "test": "list all regular file from current directori tree that contain string _REGEX",
+    "refs": [
+      "search for word _REGEX in all regular file in current folder and display match file name"
+    ]
+  },
+  {
+    "image_id": 183,
+    "test": "print all file or directori path under current directori tree",
+    "refs": [
+      "find file and directori under current directori and print them"
+    ]
+  },
+  {
+    "image_id": 184,
+    "test": "archiv all _FILE file and directori under current directori into _FILE",
+    "refs": [
+      "search for file and directori with case insensit pattern _FILE in _FILE directori and creat an archiv of all file found ensur white space safeti"
+    ]
+  },
+  {
+    "image_id": 185,
+    "test": "chang owner of all file in file system which belong to user _REGEX to _REGEX",
+    "refs": [
+      "chang ownership of all file in file system from edward to earnestc"
+    ]
+  },
+  {
+    "image_id": 186,
+    "test": "copi all file in current directori tree that were modifi less than _TIMESPAN ago to _FILE",
+    "refs": [
+      "find all file and directori last modifi less than _TIMESPAN ago and copi to _FILE creat directori as need"
+    ]
+  },
+  {
+    "image_id": 187,
+    "test": "remov all _FILE file in current directori and not delet those in sub directori",
+    "refs": [
+      "remov all _FILE file"
+    ]
+  },
+  {
+    "image_id": 188,
+    "test": "move all _FILE file under current directori to _DIRECTORY directori",
+    "refs": [
+      "search for all regular _FILE file in file system and move them to folder _FILE"
+    ]
+  },
+  {
+    "image_id": 189,
+    "test": "find all non-empti file under current directori and count them",
+    "refs": [
+      "display count of total number of non empti file in current folder"
+    ]
+  },
+  {
+    "image_id": 190,
+    "test": "remov all empti folder under _REGEX directori that were modifi after _REGEX and befor _REGEX",
+    "refs": [
+      "remov all empti folder under current path age between _REGEX and _REGEX timestamp"
+    ]
+  },
+  {
+    "image_id": 191,
+    "test": "find all file in maximum _NUMBER level down current directori and print onli name",
+    "refs": [
+      "find all file in _REGEX directori without go into sub-directori and print onli name preced by _NUMBER space"
+    ]
+  },
+  {
+    "image_id": 192,
+    "test": "find all file and directori under current directori and print them on a singl line",
+    "refs": [
+      "find all file and directori under current directori"
+    ]
+  },
+  {
+    "image_id": 193,
+    "test": "print file size in kilobyt sort from largest to smallest for each file match regular express _REGEX",
+    "refs": [
+      "print kb size of all top-level file and folder in a current folder in descend order in human readabl format"
+    ]
+  },
+  {
+    "image_id": 194,
+    "test": "find all file under _REGEX directori and write output to _REGEX file",
+    "refs": [
+      "search directori _REGEX for regular file and save result to _REGEX"
+    ]
+  },
+  {
+    "image_id": 195,
+    "test": "display a long list of all regular file in current directori tree that are writabl by both _REGEX and _REGEX",
+    "refs": [
+      "find file that are writabl by both _REGEX and group"
+    ]
+  },
+  {
+    "image_id": 196,
+    "test": "find file _REGEX in entir file system and discard ani error",
+    "refs": [
+      "find all instanc of a specif file in entir file system and discard error"
+    ]
+  },
+  {
+    "image_id": 197,
+    "test": "print averag round trip time of _NUMBER ping to _FILE from osx",
+    "refs": [
+      "print averag time of _NUMBER ping request to _FILE"
+    ]
+  },
+  {
+    "image_id": 198,
+    "test": "find all _REGEX file and directori under current directori and print last modifi file or directori name",
+    "refs": [
+      "get onli latest version of file from _REGEX file under current directori"
+    ]
+  },
+  {
+    "image_id": 199,
+    "test": "find all directori under _FILE and set read-write-execut permiss for owner read-execut permiss for group and execut permiss for other for those directori",
+    "refs": [
+      "find all directori under _REGEX and set _PERMISSION"
+    ]
+  },
+  {
+    "image_id": 200,
+    "test": "print current user 's user name and termin from _FILE",
+    "refs": [
+      "print list of all user name who are _FILE in"
+    ]
+  },
+  {
+    "image_id": 201,
+    "test": "find all regular file under current directori and replac everi occurr of _REGEX with _REGEX in those file",
+    "refs": [
+      "find all regular file under current directori and replac everi occurr of _FILE with _FILE in those file"
+    ]
+  },
+  {
+    "image_id": 202,
+    "test": "find all file and directori under current directori that write permiss for group and remov write permiss for group",
+    "refs": [
+      "find all file _REGEX directori which write permiss for group remov permiss from group"
+    ]
+  },
+  {
+    "image_id": 203,
+    "test": "find all regular file in entir file system which been access in _TIMESPAN and save output to file _FILE",
+    "refs": [
+      "save list of all regular file access less than _TIMESPAN ago as _FILE"
+    ]
+  },
+  {
+    "image_id": 204,
+    "test": "save current date format as _REGEX follow by _REGEX in _REGEX variabl",
+    "refs": [
+      "append date and command ran to _FILE after everi command"
+    ]
+  },
+  {
+    "image_id": 205,
+    "test": "print standard input as octal byte",
+    "refs": [
+      "display standard input as octal byte"
+    ]
+  },
+  {
+    "image_id": 206,
+    "test": "find all file and directori under current directori and print onli base name",
+    "refs": [
+      "search recurs through _FILE output onli base name of each file directori symlink etc without ani contain directori that is part follow last slash"
+    ]
+  },
+  {
+    "image_id": 207,
+    "test": "copi all _FILE file from current directori tree to _DIRECTORY",
+    "refs": [
+      "copi all file with _FILE extens under _FILE directori tree to _DIRECTORY directori with new name construct by prepend _REGEX in name"
+    ]
+  },
+  {
+    "image_id": 208,
+    "test": "search for _REGEX in all file under current directori and show output by page through one screen at a time",
+    "refs": [
+      "search for file contain string _REGEX and view result use more command"
+    ]
+  },
+  {
+    "image_id": 209,
+    "test": "find all _FILE file in current directori tree that contain string _REGEX and count them",
+    "refs": [
+      "find all file whose name begin with _REGEX"
+    ]
+  },
+  {
+    "image_id": 210,
+    "test": "find all regular file in current folder and move them to anoth folder",
+    "refs": [
+      "move all regular file under current directori to _FILE"
+    ]
+  },
+  {
+    "image_id": 211,
+    "test": "find all file and directori under current directori and count them",
+    "refs": [
+      "count number of file in directori tree whose pathnam match pattern _FILE"
+    ]
+  },
+  {
+    "image_id": 212,
+    "test": "find all file and directori under current directori and sort them",
+    "refs": [
+      "find all file in current folder and display them in sort order of name"
+    ]
+  },
+  {
+    "image_id": 213,
+    "test": "list all file in current directori tree that contain line match regular express _REGEX case insensit",
+    "refs": [
+      "search for case insensit pattern _REGEX in all file under current directori tree and display match file"
+    ]
+  },
+  {
+    "image_id": 214,
+    "test": "print line _NUMBER to _NUMBER in file _REGEX",
+    "refs": [
+      "display onli line number list in _REGEX from file _REGEX"
+    ]
+  },
+  {
+    "image_id": 215,
+    "test": "find all directori under minimum _NUMBER level down current directori and chang permiss to _NUMBER",
+    "refs": [
+      "chang permiss to _NUMBER for directori at current level and deeper"
+    ]
+  },
+  {
+    "image_id": 216,
+    "test": "find all _FILE file and directori under _FILE directori and pass them as argument to _FILE script",
+    "refs": [
+      "find _FILE file start from _FILE and pass them as argument to _FILE"
+    ]
+  },
+  {
+    "image_id": 217,
+    "test": "move all _FILE file and directori under current directori to _DIRECTORY",
+    "refs": [
+      "find file in current directori tree that are name _REGEX and move them to directori _REGEX"
+    ]
+  },
+  {
+    "image_id": 218,
+    "test": "find all file and directori under current directori and compress them to _FILE",
+    "refs": [
+      "creat tar archiv _FILE and copi all file from directori tree _FILE to it"
+    ]
+  },
+  {
+    "image_id": 219,
+    "test": "find all file and directori under current directori and compress them to _FILE",
+    "refs": [
+      "copi current directori tree to _REGEX preserv directori hierarchi"
+    ]
+  },
+  {
+    "image_id": 220,
+    "test": "search for _REGEX in common line of file _REGEX and _REGEX and print onli match part",
+    "refs": [
+      "print first word of line uniqu for _REGEX file"
+    ]
+  },
+  {
+    "image_id": 221,
+    "test": "move all _FILE file and directori under current directori to anoth directori",
+    "refs": [
+      "find all text file in current folder and chang extens of these file and move them to anoth folder"
+    ]
+  },
+  {
+    "image_id": 222,
+    "test": "list all file and directori under current directori match posix-egrep type regex _FILE in name",
+    "refs": [
+      "list all file and directori under current directori match posix-egrep type regex _FILE in name"
+    ]
+  },
+  {
+    "image_id": 223,
+    "test": "save first _NUMBER octet of host name 's ip address to variabl _REGEX",
+    "refs": [
+      "print ip address of current host"
+    ]
+  },
+  {
+    "image_id": 224,
+    "test": "kill all child process of parent process _REGEX",
+    "refs": [
+      "immedi kill all child process of parent process whose id is specifi by variabl ppid"
+    ]
+  },
+  {
+    "image_id": 225,
+    "test": "get ip address of _REGEX network interfac",
+    "refs": [
+      "get mac address of _REGEX network interfac"
+    ]
+  },
+  {
+    "image_id": 226,
+    "test": "number each non-blank line in _REGEX as left-justifi number and print output to _REGEX",
+    "refs": [
+      "left justifi number each non-blank line in _FILE as input to _FILE"
+    ]
+  },
+  {
+    "image_id": 227,
+    "test": "copi file from current directori that are not empti to anoth directori",
+    "refs": [
+      "truncat all non-empti regular file under current directori"
+    ]
+  },
+  {
+    "image_id": 228,
+    "test": "write output of _REGEX to standard output and to _FILE",
+    "refs": [
+      "write output of _REGEX to standard output and to _FILE"
+    ]
+  },
+  {
+    "image_id": 229,
+    "test": "print a count of each uniqu line in _REGEX",
+    "refs": [
+      "sort content of file _FILE elimin duplic entri and prefix each entri with number of occurr"
+    ]
+  },
+  {
+    "image_id": 230,
+    "test": "replac _REGEX with _REGEX in column _NUMBER and _NUMBER of file _FILE and format output as a tabl",
+    "refs": [
+      "append _REGEX and _REGEX column in file _REGEX with valu depend on current tabl content"
+    ]
+  },
+  {
+    "image_id": 231,
+    "test": "copi a file _FILE to all file in current directori tree that were modifi less than _TIMESPAN ago",
+    "refs": [
+      "find all file in _FILE folder that been modifi within _TIMESPAN and copi them to _DIRECTORY"
+    ]
+  },
+  {
+    "image_id": 232,
+    "test": "remov all _FILE file in current directori and not delet those in sub directori",
+    "refs": [
+      "non-recurs find all _FILE file in a current folder and remov them"
+    ]
+  },
+  {
+    "image_id": 233,
+    "test": "find all file and directori in current directori and run ipython convert for each of them",
+    "refs": [
+      "run ipython convert with all file or directori path under current directori as argument"
+    ]
+  },
+  {
+    "image_id": 234,
+    "test": "search for case insensit regex _REGEX in all _FILE file under current directori",
+    "refs": [
+      "search for case insensit regex expand by _REGEX in all file name _REGEX under current directori"
+    ]
+  },
+  {
+    "image_id": 235,
+    "test": "find all _FILE file in current directori which are smaller than _SIZE and print an mv command to move them to _DIRECTORY",
+    "refs": [
+      "display command to forc delet all _FILE file in current directori which are less than _SIZE and not search in sub directori"
+    ]
+  },
+  {
+    "image_id": 236,
+    "test": "find all directori under current directori and print them along with timestamp in sort order of time",
+    "refs": [
+      "sort all directori under current directori place file with least modif time at first"
+    ]
+  },
+  {
+    "image_id": 237,
+    "test": "execut content of _FILE on remot host _REGEX as user _REGEX",
+    "refs": [
+      "copi local file _REGEX to host _REGEX into host directori _REGEX"
+    ]
+  },
+  {
+    "image_id": 238,
+    "test": "find all _FILE file under current directori and replac everi occurr of _REGEX with _REGEX in those file",
+    "refs": [
+      "replac first occurr of _REGEX with _REGEX on everi line in _FILE file from current directori tree"
+    ]
+  },
+  {
+    "image_id": 239,
+    "test": "search for _REGEX in _REGEX and replac newlin with _REGEX",
+    "refs": [
+      "search for _REGEX in file _REGEX and print match line by separ them with space instead of newlin"
+    ]
+  },
+  {
+    "image_id": 240,
+    "test": "find ip address of all activ network interfac",
+    "refs": [
+      "print string with mac address configur of each network interfac in system"
+    ]
+  },
+  {
+    "image_id": 241,
+    "test": "find all file and directori under current directori and print inod number",
+    "refs": [
+      "find all file and directori under current directori and display inod of each one use stat command on _FILE"
+    ]
+  }
+]
