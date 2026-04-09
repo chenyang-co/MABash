@@ -6,7 +6,7 @@ MABash is a multi-agent collaborative framework** for automatic Bash command com
 It decomposes command understanding into lexical, syntactic, and semantic parsing stages, coordinated through a shared blackboard architecture, and integrates a fine-tuned large language model for structure-aware comment generation.
 
 <p align="center">
-  <img src="assets/framework.png" width="600"/>
+  <img src="src/framework.png" width="600"/>
 </p>
 
 
